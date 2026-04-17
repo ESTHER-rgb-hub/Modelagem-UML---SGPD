@@ -55,3 +55,5 @@ O diagrama de classes fornece os métodos e atributos que são invocados no diag
 
 ## Autor
 Esther — Abril/2026
+Ciência da computação
+Universidade Cruzeiro do sul 
