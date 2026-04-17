@@ -7,7 +7,7 @@ Este repositório reúne os diagramas UML desenvolvidos para o Sistema de Gestã
 Validar a arquitetura estrutural e comportamental do SGPD antes da codificação, garantindo consistência e minimizando falhas arquiteturais.
 
 ## 📑 Diagrama de Classes
-![Diagrama de Classes](images/diagrama-classes.png)
+![Diagrama de Classes](diagrama-classes.png)
 
 **Explicação:**  
 O diagrama de classes define a estrutura estática do sistema, incluindo classes como **Solicitação**, **SistemaSGPD**, **Usuário** e **Gestor**.  
