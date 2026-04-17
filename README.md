@@ -18,7 +18,7 @@ Esses métodos são invocados nos diagramas comportamentais.
 ---
 
 ## 📑 Diagrama de Sequência
-![Diagrama de Sequência](images/diagrama-sequencia.png)
+![Diagrama de Sequência](diagrama-sequencia.png)
 
 **Explicação:**  
 Mostra a ordem temporal das interações entre os objetos no caso de uso **Registrar Solicitação Digital**.  
@@ -29,7 +29,7 @@ Mostra a ordem temporal das interações entre os objetos no caso de uso **Regis
 ---
 
 ## 📑 Diagrama de Atividades
-![Diagrama de Atividades](images/diagrama-atividades.png)
+![Diagrama de Atividades](diagrama-atividades.png)
 
 **Explicação:**  
 Representa o fluxo de controle e decisões do processo de negócio.  
